@@ -1,0 +1,20 @@
+# data analysis
+jupyterlab
+pyarrow
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+wget
+pymongo
+
+# web scrapping
+requests
+beautifulsoup4
+lxml
+pandas
+selenium
+urllib3
+scrapy
+webdriver_manager
